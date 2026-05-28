@@ -1,0 +1,59 @@
+=======================================================
+  PASSWORD SECURITY AUDIT REPORT
+  Generated: 2026-05-26 10:06:28.707522
+  Total passwords audited: 3
+=======================================================
+
+[PASSWORD 1]
+  Masked    : ******
+  Score     : 35/100 — WEAK
+  Entropy   : 31.0 bits
+  Crack Time: 36.3 minutes
+  In Wordlist: YES — DANGER
+  MD5 Hash  : 14efd81cae3b37d89fa5ce8c51b4ec13
+  Linux Hash: $6$rounds=656000$YX68gL5iI0A9VEAq$.q7DQrNco/zllcZxMkgggKs.XN.hwkmhXESVbVWaxdOAYtfnqQe1ud18/xFYo1FoBZef7K0rNgHJ6cweUzeYf.
+  Lowercase : Yes
+  Uppercase : No
+  Numbers   : Yes
+  Symbols   : No
+
+[PASSWORD 2]
+  Masked    : ********
+  Score     : 30/100 — WEAK
+  Entropy   : 37.6 bits
+  Crack Time: 2.4 days
+  In Wordlist: YES — DANGER
+  MD5 Hash  : 5f4dcc3b5aa765d61d8327deb882cf99
+  Linux Hash: $6$rounds=656000$qysNSJQA38F9Eb/H$ks9hszHW7boMqM0fyvb.WFkVwRpnVfvc2eXc26TkPra4IyoSenwZE5ggYkN/Tmo.7WVTPGremyfUczGZLGZma/
+  Lowercase : Yes
+  Uppercase : No
+  Numbers   : No
+  Symbols   : No
+
+[PASSWORD 3]
+  Masked    : ******************
+  Score     : 100/100 — VERY STRONG
+  Entropy   : 118.0 bits
+  Crack Time: 10411055409088392331264.00 years
+  In Wordlist: No
+  MD5 Hash  : 15bd6cd9f71f7cda3c26dcf478282539
+  Linux Hash: $6$rounds=656000$BUgJF4B/mizz09V/$d9CF4EPLJGrM1ipxfiRMIgyuMl21nWLdCtwVNWsXF/Iz4S5KQzLG6qjik22N.g4sC2b48p8AyLO6LfgW6fkBf/
+  Lowercase : Yes
+  Uppercase : Yes
+  Numbers   : Yes
+  Symbols   : Yes
+
+=======================================================
+  AUDIT SUMMARY
+=======================================================
+  Total Audited : 3
+  Weak/Very Weak: 2
+  Strong+       : 1
+
+  RECOMMENDATIONS:
+  - Use at least 12 characters
+  - Mix uppercase, lowercase, numbers and symbols
+  - Never use personal info like names or birthdays
+  - Never reuse passwords across accounts
+  - Use a password manager
+=======================================================

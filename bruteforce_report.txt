@@ -1,0 +1,5 @@
+BRUTE FORCE SIMULATION REPORT
+Date: 2026-05-26 10:00:10.214963
+Target Hash: 14efd81cae3b37d89fa5ce8c51b4ec13
+Estimated Crack Time: 36.3 minutes
+Result: Cracked - john28
